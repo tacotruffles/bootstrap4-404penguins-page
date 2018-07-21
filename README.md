@@ -1,6 +1,6 @@
 # bootstrap4-404penguins-page
 
-## Description:
+A demo animated 404 landing page that uses bootstrap 4, SASS, CSS3, and penguins!
 
 ### Colors:
 ```
@@ -11,4 +11,6 @@ White: #FFFFFF
 ```
 
 ### Fonts:
-
+```
+Eurostile
+```
