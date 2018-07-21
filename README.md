@@ -17,4 +17,4 @@ Eurostile
 
 ### Screenshot
 
-![alt text](https://raw.githubusercontent.com/tacotruffles/bootstrap4-404penguins-page/assests/img/screenshot-404-penguins.png)
+![alt text](assests/img/screenshot-404-penguins.png)
