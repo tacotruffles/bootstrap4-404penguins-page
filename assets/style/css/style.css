@@ -1,0 +1,14 @@
+/****************** FONT ************************/
+@font-face {
+  font-family: "Eurostile";
+  src: url("../fonts/Eurostile.ttf");
+}
+
+/****************** VARIABLES ************************/
+body {
+  background: #30404D;
+}
+
+/****************** GENERAL RESET ************************/
+/****************** MAIN STYLE ************************/
+/*# sourceMappingURL=style.css.map */

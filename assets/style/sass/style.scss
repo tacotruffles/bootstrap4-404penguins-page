@@ -1,0 +1,20 @@
+/****************** FONT ************************/
+@font-face {
+   font-family: "Eurostile";
+   src: url("../fonts/Eurostile.ttf");
+}
+
+/****************** VARIABLES ************************/
+$color-grey: #30404D;
+$color-blue: #1CA8F9;
+$color-blue-light: #89D5F5;
+$color-white: #FFFFFF;
+
+body {
+   background: $color-grey;
+}
+
+/****************** GENERAL RESET ************************/
+
+
+/****************** MAIN STYLE ************************/
