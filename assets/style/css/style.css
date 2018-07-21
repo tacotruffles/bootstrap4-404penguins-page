@@ -5,10 +5,98 @@
 }
 
 /****************** VARIABLES ************************/
-body {
-  background: #30404D;
+/****************** GENERAL RESET ************************/
+html, body {
+  background-color: #30404D;
+  font-family: "Eurostile";
 }
 
-/****************** GENERAL RESET ************************/
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: none;
+  -webkit-transition: all 0.2s ease-out;
+  transition: all 0.2s ease-out;
+}
+
 /****************** MAIN STYLE ************************/
+.container {
+  margin-top: 50px;
+}
+
+.container .header {
+  margin: 10px;
+}
+
+.container .header h1 {
+  font-size: 5em;
+  font-weight: bold;
+  color: #89D5F5;
+  margin-bottom: 40px;
+  position: relative;
+  z-index: 200;
+}
+
+.container .header p {
+  font-size: 1.9em;
+  color: #FFFFFF;
+  letter-spacing: 2px;
+  margin-bottom: 50px;
+  position: relative;
+  z-index: 200;
+}
+
+.container .header a {
+  background-color: #1CA8F9;
+  color: #FFFFFF;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding: 12px 18px;
+  text-transform: uppercase;
+  border: 2px solid #FFFFFF;
+  position: relative;
+  z-index: 200;
+}
+
+.container .header a:hover {
+  background-color: #056eaa;
+}
+
+.container img {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.container #snow {
+  background-image: url("../../img/background.png");
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  -webkit-animation: snow 26s linear infinite;
+          animation: snow 26s linear infinite;
+}
+
+@-webkit-keyframes snow {
+  0% {
+    background-position: 0px 0px;
+  }
+  100% {
+    background-position: 500px 1000px;
+  }
+}
+
+@keyframes snow {
+  0% {
+    background-position: 0px 0px;
+  }
+  100% {
+    background-position: 500px 1000px;
+  }
+}
 /*# sourceMappingURL=style.css.map */
