@@ -17,4 +17,4 @@ Eurostile
 
 ### Screenshot
 
-![Animated CSS3 404 Landing Page](assets/img/screenshot-404-penguins.png)
+![Animated CSS3 404 Landing Page](assets/img/screenshot-404-penguins.gif)
