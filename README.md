@@ -17,4 +17,4 @@ Eurostile
 
 ### Screenshot
 
-![alt text](assests/img/screenshot-404-penguins.png)
+![alt text](assets/img/screenshot-404-penguins.png)
